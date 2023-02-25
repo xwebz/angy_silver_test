@@ -99,3 +99,18 @@ input{
     cursor: pointer;
 }
 /* FORM END */
+
+/* CHANGE LANGUAGE/LOCATION BUTTON */
+#preferences-btn{
+    background-color: #ff512f;
+    display: block;
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 6px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    cursor: pointer;
+    
+}
+/* CHANGE LANGUAGE/LOCATION BUTTON */
