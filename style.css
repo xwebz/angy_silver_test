@@ -21,13 +21,13 @@
     width: extend-to-zoom;
     zoom: 1.0
 }
-/* END IMPORTANT FOR MOBILE VISUALIZATION */
+/* IMPORTANT FOR MOBILE VISUALIZATION END */
 
 body{
     background-color: #080710;
 }
 
-
+/* FORM */
 form{
     height: 460px;
     width: 300px;
@@ -98,3 +98,4 @@ input{
     font-weight: 300;
     cursor: pointer;
 }
+/* FORM END */
