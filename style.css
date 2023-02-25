@@ -29,33 +29,33 @@ body{
 
 #background{
     height: 490px;
-    width: 420px;
+    width: 400px;
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
     top: 50%;
 }
-
+/*
 #background .shape{
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     position: absolute;
     border-radius: 50%;
 }
 #shape1{
     background: linear-gradient(rgba(240, 152, 25, 0.1), rgba(255, 81, 47, 0.3));
-    left: -80px;
-    top: -60px;
+    left: +10px;
+    top: +10px;
 }
 #shape2{
     background: linear-gradient(rgba(255, 81, 47, 0.3), rgba(240, 152, 25, 0.1));
     right: -80px;
     bottom: -60px;
 }
-
+*/
 form{
     height: 490px;
-    width: 420px;
+    width: 400px;
     background-color: rgba(255, 255, 255, 0.07);
     position: absolute;
     transform: translate(-50%, -50%);
